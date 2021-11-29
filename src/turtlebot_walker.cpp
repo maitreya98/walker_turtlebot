@@ -1,7 +1,7 @@
 /**
  * MIT License
  *
- * Copyright (c) 2021 Pratik Bhujbal
+ * Copyright (c) 2021 Maitreya Kulkarni
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to 
@@ -22,7 +22,7 @@
  * DEALINGS IN THE SOFTWARE. 
  * 
  * @file turtlebot_walker.cpp
- * @author Pratik Bhujbal
+ * @author Kulkarni
  * @brief  Class implementation
  * @version 1.0
  * @date 11/23/2021
