@@ -39,19 +39,19 @@
 class walkerRoomba {
  public:
   /**
-   * @brief      Constructor of the class
+   * @brief     Constructor of the class
    */
   walkerRoomba();
   /**
-   * @brief      Destructor of the class
+   * @brief     Destructor of the class
    */
   ~walkerRoomba();
   /**
-   * @brief      Callback for laser data
+   * @brief     Callback for laser data
    *
    * @param message to check collision
    *
-   * @return     void: Return nothing
+   * @return    void: Return nothing
    */
   auto callbackObstacle(const sensor_msgs::LaserScan::ConstPtr &msg) -> void;
   /**
